@@ -7,7 +7,7 @@
     --text-color: #ffffff;
     --bg-color: #050507;
     --card-bg: #0a0a0a;
-    --border-color: rgba(128, 0, 32, 0.35); /* бордовый с прозрачностью */
+    --border-color: rgba(150, 200, 106, 0.8); /* бордовый с прозрачностью */
     --shadow: 0 8px 32px rgba(255, 23, 68, 0.2);
     --transition: transform 0.3s ease, opacity 0.3s ease;
     --gradient-1: linear-gradient(135deg, #ff1744 0%, #800020 100%);
@@ -936,3 +936,4 @@ body {
     color: #ffd7e5;
 
 }
+
