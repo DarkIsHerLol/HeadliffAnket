@@ -1,6 +1,6 @@
 :root {
-    --primary-color: #ff1744; /* яркий красный */
-    --secondary-color: #800020; /* бордовый */
+    --primary-color: #00a08a; /* яркий красный */
+    --secondary-color: #057d9f; /* бордовый */
     --accent-color: #9c27b0; /* фиолетовый */
     --light-color: #ecf0f1;
     --dark-color: #000000; /* чёрный */
@@ -934,4 +934,5 @@ body {
     font-size: 1.05rem;
     font-weight: 600;
     color: #ffd7e5;
+
 }
